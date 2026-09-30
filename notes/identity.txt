@@ -1,4 +1,4 @@
 Full Name: Andrew Akligo
 GitHub Username: dodzix
 Date Started: 30/09/2026
-Auth Method: SSH
+Auth Method: AUTH
