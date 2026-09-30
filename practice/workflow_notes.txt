@@ -1,0 +1,13 @@
+Student Name: Andrew Akligo
+
+What editing a file means:
+[Write 2 to 3 sentences]
+
+What staging a file means:
+[Write 2 to 3 sentences]
+
+What committing a file means:
+[Write 2 to 3 sentences]
+
+Why staging is useful:
+Testing
